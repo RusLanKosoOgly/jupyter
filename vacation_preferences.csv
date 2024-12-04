@@ -1,0 +1,1001 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+116566,Osh,60,sea,car,Bangkok
+116688,Tashkent,51,city,train,Paris
+45879,Nur-Sultan,19,city,plane,Antalya
+112740,Almaty,43,city,car,Antalya
+28488,Nur-Sultan,61,mountains,plane,Paris
+44278,Bishkek,19,city,plane,Antalya
+102667,Bishkek,47,city,plane,New York
+62961,Nur-Sultan,35,sea,bus,Dubai
+106274,Osh,54,city,train,Paris
+117554,Osh,22,mountains,plane,New York
+36963,Tashkent,32,mountains,bus,New York
+69672,Almaty,18,city,car,Paris
+67856,Almaty,60,sea,bus,New York
+64073,Nur-Sultan,30,city,bus,Paris
+41143,Bishkek,44,sea,car,Bangkok
+108082,Nur-Sultan,64,city,train,Bangkok
+77576,Nur-Sultan,46,city,plane,Paris
+115826,Tashkent,52,sea,bus,Paris
+63110,Osh,21,mountains,car,Dubai
+102575,Nur-Sultan,60,mountains,train,Dubai
+101629,Bishkek,56,sea,plane,Paris
+64364,Nur-Sultan,32,city,car,Antalya
+76590,Osh,41,sea,car,Paris
+80150,Bishkek,37,sea,car,New York
+107705,Almaty,64,city,bus,New York
+101755,Tashkent,26,city,bus,Bangkok
+33259,Nur-Sultan,41,sea,car,Bangkok
+49251,Bishkek,29,sea,car,Bangkok
+33874,Tashkent,23,sea,bus,Antalya
+45137,Tashkent,52,sea,train,Bangkok
+69427,Osh,63,mountains,bus,Dubai
+96793,Osh,61,mountains,bus,New York
+20584,Osh,61,mountains,car,New York
+96229,Osh,37,sea,plane,Bangkok
+35813,Osh,23,city,plane,New York
+63497,Bishkek,42,city,train,Paris
+43844,Nur-Sultan,58,mountains,car,New York
+37289,Bishkek,20,mountains,car,Bangkok
+44344,Tashkent,21,city,plane,Dubai
+52167,Osh,51,sea,train,Paris
+69394,Tashkent,63,mountains,train,Bangkok
+110410,Bishkek,35,sea,train,Dubai
+95732,Osh,44,sea,plane,Bangkok
+99446,Nur-Sultan,47,mountains,bus,Bangkok
+59567,Tashkent,25,city,car,Antalya
+41461,Osh,19,sea,train,Bangkok
+83214,Osh,45,mountains,train,Paris
+29395,Bishkek,57,sea,car,Paris
+101096,Tashkent,65,sea,train,New York
+27063,Bishkek,47,mountains,plane,Paris
+72096,Tashkent,33,city,bus,Antalya
+44592,Tashkent,25,sea,train,Bangkok
+55026,Nur-Sultan,45,sea,train,New York
+115540,Nur-Sultan,25,sea,bus,Antalya
+52843,Osh,21,city,bus,Bangkok
+25786,Almaty,33,sea,plane,Paris
+92267,Bishkek,44,mountains,car,New York
+88335,Almaty,23,mountains,bus,Antalya
+56292,Osh,54,sea,train,Paris
+57033,Nur-Sultan,57,city,bus,Bangkok
+83969,Nur-Sultan,28,city,train,Bangkok
+50096,Almaty,54,mountains,plane,Bangkok
+87236,Osh,53,city,bus,Bangkok
+22156,Bishkek,19,mountains,train,New York
+96301,Tashkent,37,city,bus,Paris
+44298,Bishkek,61,mountains,car,Antalya
+64798,Tashkent,39,city,train,Bangkok
+97880,Nur-Sultan,24,mountains,train,Bangkok
+111947,Almaty,51,sea,train,Bangkok
+99865,Tashkent,58,sea,car,Dubai
+76837,Nur-Sultan,40,city,train,New York
+60087,Nur-Sultan,52,sea,plane,Dubai
+53394,Nur-Sultan,18,mountains,train,Bangkok
+63196,Tashkent,55,mountains,car,Antalya
+58656,Tashkent,28,mountains,plane,Paris
+41698,Tashkent,49,city,plane,Paris
+58442,Nur-Sultan,31,sea,car,Paris
+75806,Bishkek,22,city,car,New York
+35832,Almaty,60,city,plane,Paris
+34629,Nur-Sultan,26,mountains,plane,Antalya
+116742,Osh,30,city,bus,Bangkok
+88643,Osh,51,mountains,car,Dubai
+99094,Nur-Sultan,54,mountains,bus,New York
+114335,Tashkent,63,city,bus,Paris
+112260,Bishkek,60,sea,train,Dubai
+51726,Tashkent,57,mountains,car,Paris
+34739,Bishkek,18,sea,train,New York
+24254,Osh,19,sea,train,New York
+31679,Tashkent,27,city,car,Paris
+112451,Osh,29,city,car,Antalya
+105357,Osh,38,city,car,Bangkok
+89079,Bishkek,65,mountains,plane,New York
+107130,Osh,49,mountains,train,Antalya
+25740,Nur-Sultan,47,mountains,plane,Bangkok
+117955,Bishkek,46,mountains,bus,Antalya
+26145,Osh,19,sea,plane,New York
+40017,Bishkek,30,mountains,plane,Paris
+41257,Bishkek,29,sea,car,Paris
+54446,Tashkent,49,city,bus,Dubai
+66248,Almaty,24,city,plane,Paris
+90961,Nur-Sultan,48,sea,train,Bangkok
+46019,Almaty,56,mountains,car,Paris
+59672,Nur-Sultan,19,sea,car,Dubai
+27303,Almaty,38,sea,car,Bangkok
+67202,Almaty,44,sea,car,New York
+108117,Tashkent,21,sea,car,Paris
+59571,Osh,34,city,car,Bangkok
+94999,Almaty,38,sea,bus,Antalya
+33828,Nur-Sultan,65,city,train,Bangkok
+41207,Osh,60,sea,bus,New York
+33543,Tashkent,42,sea,plane,Paris
+52265,Tashkent,53,mountains,bus,New York
+109180,Osh,22,sea,bus,Dubai
+23091,Nur-Sultan,61,mountains,car,Bangkok
+51912,Bishkek,56,sea,car,Bangkok
+59801,Almaty,33,sea,car,New York
+31578,Almaty,39,sea,bus,Dubai
+56476,Nur-Sultan,62,city,plane,Antalya
+44153,Almaty,41,mountains,plane,New York
+31028,Tashkent,62,city,car,Antalya
+33102,Tashkent,50,city,plane,New York
+69843,Bishkek,58,mountains,bus,Paris
+48213,Osh,52,sea,train,Paris
+25812,Bishkek,20,city,train,Antalya
+74583,Nur-Sultan,32,sea,train,Dubai
+32724,Bishkek,64,mountains,bus,Dubai
+61371,Almaty,62,mountains,plane,New York
+54108,Tashkent,36,city,car,Dubai
+101997,Bishkek,62,mountains,car,Bangkok
+34177,Tashkent,47,sea,train,Bangkok
+87183,Nur-Sultan,29,city,train,Bangkok
+115117,Almaty,20,city,train,New York
+37875,Almaty,44,mountains,train,Paris
+38311,Osh,36,sea,bus,New York
+90454,Nur-Sultan,58,city,train,Paris
+111287,Nur-Sultan,50,city,plane,Antalya
+22603,Nur-Sultan,30,sea,bus,Paris
+34366,Bishkek,37,city,bus,Bangkok
+109683,Osh,33,sea,train,Dubai
+84007,Nur-Sultan,50,mountains,plane,Paris
+64321,Almaty,38,city,train,Bangkok
+37565,Nur-Sultan,53,city,bus,Bangkok
+20417,Tashkent,65,sea,plane,New York
+42542,Osh,27,city,car,Dubai
+39305,Almaty,27,mountains,bus,Antalya
+97100,Osh,42,city,bus,Antalya
+99076,Nur-Sultan,36,mountains,plane,Paris
+106851,Bishkek,59,mountains,train,New York
+113308,Bishkek,25,city,plane,Paris
+34709,Almaty,41,mountains,bus,Antalya
+106495,Almaty,18,city,car,Antalya
+88534,Almaty,36,mountains,bus,Bangkok
+110276,Nur-Sultan,29,mountains,bus,Antalya
+88159,Tashkent,33,mountains,train,Bangkok
+57148,Tashkent,63,city,car,Paris
+100029,Osh,47,mountains,bus,Bangkok
+23481,Osh,42,mountains,train,Dubai
+21809,Almaty,52,city,train,Dubai
+112041,Tashkent,54,mountains,bus,Paris
+105782,Almaty,30,city,plane,New York
+28443,Nur-Sultan,31,city,bus,Dubai
+59975,Nur-Sultan,40,sea,car,Dubai
+79207,Osh,63,sea,plane,Paris
+68969,Nur-Sultan,42,city,car,Antalya
+53048,Tashkent,58,city,train,Dubai
+68412,Nur-Sultan,18,city,bus,Paris
+27764,Nur-Sultan,40,city,train,New York
+107409,Osh,54,city,plane,Dubai
+80740,Nur-Sultan,21,city,bus,Antalya
+89518,Bishkek,58,mountains,car,Dubai
+27887,Nur-Sultan,44,sea,plane,New York
+109431,Almaty,29,city,train,Dubai
+118784,Osh,49,city,plane,Paris
+62181,Osh,53,city,bus,Antalya
+44378,Osh,23,sea,car,Antalya
+39406,Bishkek,54,sea,car,Dubai
+106225,Bishkek,23,city,bus,New York
+97104,Osh,60,mountains,car,Dubai
+59947,Nur-Sultan,59,sea,train,Dubai
+115490,Almaty,27,sea,bus,Antalya
+62237,Tashkent,47,sea,car,Bangkok
+85197,Osh,19,city,car,Dubai
+113857,Osh,34,city,plane,Dubai
+25132,Almaty,20,city,plane,New York
+100022,Almaty,29,mountains,bus,Bangkok
+102586,Almaty,53,sea,bus,Dubai
+29614,Nur-Sultan,39,city,bus,Bangkok
+21435,Almaty,31,mountains,bus,Dubai
+73621,Osh,55,sea,train,Antalya
+53097,Almaty,22,sea,plane,Dubai
+118545,Nur-Sultan,47,sea,plane,Paris
+115861,Nur-Sultan,21,sea,car,New York
+117115,Nur-Sultan,31,sea,train,Bangkok
+35398,Nur-Sultan,49,city,plane,Paris
+105865,Osh,48,city,plane,Paris
+61600,Osh,39,mountains,car,New York
+67644,Osh,41,city,plane,Paris
+119335,Almaty,46,city,plane,Bangkok
+109717,Nur-Sultan,64,mountains,plane,New York
+67436,Bishkek,44,sea,train,Paris
+115576,Tashkent,29,mountains,car,Paris
+76122,Bishkek,55,mountains,plane,Antalya
+48988,Tashkent,57,city,bus,New York
+45413,Osh,34,sea,bus,New York
+111202,Nur-Sultan,64,city,car,Bangkok
+49757,Bishkek,46,city,plane,Bangkok
+48549,Osh,47,mountains,train,Antalya
+87695,Nur-Sultan,19,sea,car,Antalya
+39967,Osh,58,sea,car,Antalya
+82293,Tashkent,53,sea,car,Antalya
+43120,Tashkent,52,sea,train,New York
+60582,Bishkek,64,sea,train,Dubai
+99112,Osh,50,city,bus,Paris
+55477,Bishkek,37,city,train,Dubai
+55329,Almaty,58,sea,car,New York
+31629,Almaty,47,city,car,New York
+89898,Nur-Sultan,41,mountains,plane,Antalya
+87669,Osh,23,city,train,Antalya
+37219,Nur-Sultan,28,mountains,plane,Dubai
+110315,Bishkek,64,city,car,Antalya
+51653,Almaty,62,mountains,plane,Dubai
+54479,Osh,28,city,train,New York
+79533,Nur-Sultan,30,city,train,Dubai
+99423,Nur-Sultan,58,mountains,car,New York
+86091,Almaty,64,city,plane,New York
+65772,Almaty,30,city,bus,Antalya
+68906,Tashkent,65,mountains,bus,Bangkok
+31105,Osh,33,city,plane,Bangkok
+52324,Tashkent,33,mountains,plane,Bangkok
+84826,Osh,61,city,plane,Bangkok
+66306,Nur-Sultan,40,sea,bus,Antalya
+90376,Bishkek,21,city,car,Paris
+20080,Osh,44,sea,plane,New York
+34010,Tashkent,26,sea,train,Antalya
+40594,Almaty,61,sea,plane,New York
+69814,Bishkek,26,mountains,bus,Bangkok
+63119,Almaty,30,sea,plane,Bangkok
+25502,Tashkent,55,city,car,Dubai
+38399,Nur-Sultan,60,city,car,Dubai
+36325,Osh,62,mountains,plane,Dubai
+72217,Osh,51,mountains,bus,Antalya
+90515,Almaty,56,mountains,plane,Bangkok
+90633,Almaty,34,city,bus,New York
+105335,Tashkent,28,sea,train,New York
+64108,Tashkent,45,sea,bus,Dubai
+58615,Nur-Sultan,59,city,car,Dubai
+58069,Nur-Sultan,53,city,car,New York
+60765,Tashkent,30,sea,car,Paris
+83909,Almaty,21,sea,train,New York
+83210,Nur-Sultan,48,city,car,Antalya
+98624,Osh,59,city,train,Dubai
+84408,Tashkent,24,sea,bus,Antalya
+40865,Almaty,30,city,plane,Dubai
+62699,Tashkent,26,sea,bus,Bangkok
+65925,Nur-Sultan,54,sea,car,Dubai
+90780,Nur-Sultan,58,city,bus,New York
+25252,Almaty,63,sea,plane,Dubai
+23620,Nur-Sultan,49,mountains,plane,Paris
+67554,Bishkek,62,sea,bus,Paris
+47100,Nur-Sultan,35,sea,bus,Paris
+96812,Bishkek,62,mountains,bus,Dubai
+108759,Almaty,39,sea,train,Bangkok
+36245,Bishkek,30,mountains,plane,Paris
+79994,Nur-Sultan,55,mountains,bus,Bangkok
+58247,Nur-Sultan,41,city,train,Bangkok
+90336,Almaty,56,mountains,bus,Paris
+45153,Almaty,32,city,plane,Bangkok
+44158,Osh,45,sea,train,Paris
+73731,Nur-Sultan,37,mountains,plane,New York
+21659,Bishkek,46,sea,bus,Antalya
+57130,Bishkek,50,sea,bus,Bangkok
+105006,Bishkek,43,mountains,car,Bangkok
+98930,Almaty,38,sea,train,Dubai
+78846,Bishkek,60,sea,plane,New York
+86915,Osh,48,city,car,Paris
+97667,Bishkek,36,mountains,bus,Paris
+36258,Nur-Sultan,56,sea,plane,New York
+85907,Tashkent,63,sea,plane,Dubai
+70073,Tashkent,29,mountains,car,Antalya
+106500,Nur-Sultan,64,city,plane,Dubai
+58781,Tashkent,64,sea,train,Dubai
+49263,Tashkent,27,mountains,train,Bangkok
+64226,Bishkek,59,mountains,car,Dubai
+66790,Nur-Sultan,27,sea,bus,Dubai
+26558,Tashkent,46,sea,car,Bangkok
+33544,Almaty,19,city,car,New York
+92537,Bishkek,24,sea,bus,Bangkok
+39810,Nur-Sultan,46,mountains,bus,New York
+32575,Bishkek,45,city,plane,Antalya
+71553,Tashkent,32,mountains,car,Antalya
+90860,Nur-Sultan,31,mountains,train,Antalya
+109509,Almaty,32,mountains,bus,New York
+95579,Osh,30,mountains,train,New York
+39278,Tashkent,50,sea,bus,Paris
+89203,Almaty,48,city,train,Antalya
+112748,Almaty,32,sea,plane,Antalya
+109794,Nur-Sultan,36,city,car,New York
+107408,Almaty,27,sea,plane,Bangkok
+89646,Tashkent,42,mountains,bus,Paris
+60591,Osh,58,sea,plane,Paris
+23193,Nur-Sultan,51,city,plane,Dubai
+36965,Nur-Sultan,29,sea,car,Dubai
+82302,Nur-Sultan,45,mountains,train,New York
+69618,Nur-Sultan,36,mountains,bus,New York
+21397,Bishkek,39,mountains,plane,Dubai
+66680,Osh,44,mountains,plane,Dubai
+101290,Tashkent,28,city,bus,Dubai
+90363,Osh,54,city,plane,Antalya
+70592,Tashkent,29,mountains,car,New York
+32862,Bishkek,43,mountains,car,New York
+104538,Nur-Sultan,30,sea,train,Bangkok
+39174,Tashkent,40,city,plane,Bangkok
+46975,Bishkek,61,mountains,car,New York
+42723,Nur-Sultan,31,mountains,plane,Bangkok
+92155,Almaty,41,mountains,bus,Paris
+80410,Osh,26,city,plane,Dubai
+112183,Bishkek,34,city,plane,New York
+60085,Bishkek,35,mountains,plane,New York
+107676,Osh,56,sea,train,Paris
+75155,Nur-Sultan,35,mountains,train,Bangkok
+66383,Nur-Sultan,42,city,train,Dubai
+51593,Bishkek,31,city,train,New York
+35759,Tashkent,42,sea,bus,Antalya
+91532,Tashkent,56,sea,bus,Antalya
+77052,Osh,40,city,car,Antalya
+45714,Almaty,20,mountains,plane,New York
+79500,Osh,20,sea,bus,Paris
+21626,Tashkent,34,mountains,plane,New York
+119158,Almaty,22,mountains,train,Paris
+74827,Tashkent,32,sea,car,Dubai
+79650,Almaty,41,mountains,train,Dubai
+22659,Osh,40,mountains,train,Dubai
+111784,Nur-Sultan,35,sea,train,Antalya
+40751,Osh,56,mountains,train,Bangkok
+75647,Tashkent,35,city,train,Bangkok
+106576,Osh,24,mountains,bus,Antalya
+50217,Tashkent,48,mountains,car,Bangkok
+69354,Almaty,58,mountains,plane,New York
+117969,Almaty,48,mountains,train,Bangkok
+104049,Almaty,42,sea,car,Bangkok
+54020,Almaty,59,city,train,New York
+46632,Bishkek,53,city,plane,Bangkok
+64554,Osh,38,sea,bus,Antalya
+57263,Tashkent,63,sea,train,Bangkok
+108075,Almaty,31,mountains,bus,Bangkok
+84340,Osh,64,sea,plane,Paris
+83032,Nur-Sultan,65,city,train,Antalya
+86378,Osh,40,sea,bus,New York
+30104,Osh,39,city,plane,New York
+37391,Nur-Sultan,53,mountains,train,Bangkok
+104509,Tashkent,52,city,car,Antalya
+42468,Tashkent,61,mountains,plane,Paris
+115472,Almaty,40,city,car,Bangkok
+66667,Tashkent,55,city,train,Bangkok
+91034,Nur-Sultan,56,city,car,Bangkok
+87870,Almaty,57,city,train,Dubai
+83477,Osh,63,mountains,car,Dubai
+55510,Osh,60,city,train,Bangkok
+69127,Nur-Sultan,52,sea,plane,Paris
+69970,Bishkek,33,city,plane,Bangkok
+29913,Nur-Sultan,63,city,train,Paris
+106738,Nur-Sultan,29,city,bus,New York
+42723,Almaty,22,city,train,Antalya
+60265,Almaty,39,city,train,Antalya
+94557,Osh,39,sea,plane,Paris
+102640,Osh,57,mountains,bus,Paris
+108832,Nur-Sultan,59,sea,train,Dubai
+106421,Bishkek,62,city,train,New York
+57127,Tashkent,43,mountains,train,Bangkok
+93187,Osh,35,city,train,New York
+73678,Tashkent,50,sea,car,Paris
+71390,Bishkek,51,city,plane,Dubai
+32490,Osh,58,sea,bus,New York
+24808,Tashkent,63,mountains,car,Bangkok
+55872,Nur-Sultan,29,mountains,bus,Dubai
+53025,Osh,54,city,plane,Paris
+62905,Tashkent,55,mountains,car,Antalya
+27621,Tashkent,34,mountains,train,New York
+22240,Tashkent,60,mountains,train,Antalya
+88184,Almaty,36,city,bus,Dubai
+81198,Nur-Sultan,53,sea,car,Bangkok
+42251,Osh,30,mountains,plane,New York
+86367,Tashkent,18,mountains,bus,New York
+76881,Nur-Sultan,62,mountains,bus,Paris
+97702,Nur-Sultan,37,mountains,car,Antalya
+97190,Almaty,65,mountains,car,New York
+110869,Almaty,35,mountains,plane,Antalya
+74630,Almaty,40,mountains,plane,Paris
+76015,Nur-Sultan,19,mountains,car,Bangkok
+98428,Osh,20,city,train,Antalya
+24037,Nur-Sultan,21,mountains,plane,New York
+41116,Nur-Sultan,43,sea,car,Dubai
+83333,Nur-Sultan,45,city,car,New York
+27972,Almaty,65,mountains,bus,New York
+60171,Tashkent,28,mountains,car,Paris
+41465,Osh,50,city,car,Dubai
+96565,Bishkek,35,mountains,plane,Antalya
+54011,Tashkent,60,mountains,train,New York
+87901,Tashkent,51,sea,train,New York
+20962,Bishkek,40,sea,car,Dubai
+32449,Osh,41,city,car,Dubai
+60142,Osh,20,mountains,plane,Bangkok
+113835,Osh,52,mountains,train,Antalya
+38772,Bishkek,35,sea,bus,Bangkok
+76662,Almaty,31,mountains,bus,New York
+108142,Tashkent,24,mountains,plane,Bangkok
+39316,Osh,52,sea,bus,Dubai
+69999,Bishkek,53,sea,bus,New York
+41353,Bishkek,50,city,train,Dubai
+56776,Nur-Sultan,34,mountains,bus,Bangkok
+83611,Tashkent,39,mountains,car,Paris
+93492,Nur-Sultan,18,sea,plane,Antalya
+23791,Osh,50,city,car,New York
+79097,Nur-Sultan,65,city,bus,New York
+105074,Tashkent,60,sea,train,Dubai
+114148,Nur-Sultan,31,sea,train,Dubai
+63378,Osh,60,mountains,car,Antalya
+84472,Osh,62,mountains,train,Antalya
+55420,Tashkent,31,city,car,Paris
+24865,Bishkek,27,sea,train,Paris
+112828,Osh,32,sea,train,Bangkok
+39205,Tashkent,24,mountains,plane,Dubai
+56574,Osh,29,city,bus,Bangkok
+80635,Tashkent,64,city,bus,Paris
+53076,Osh,54,mountains,bus,Dubai
+45044,Bishkek,48,city,car,New York
+118395,Nur-Sultan,46,sea,bus,Dubai
+22113,Osh,48,city,plane,Bangkok
+36889,Bishkek,61,mountains,bus,Antalya
+28101,Osh,30,city,car,Bangkok
+82218,Nur-Sultan,26,city,plane,New York
+26270,Bishkek,32,city,train,Bangkok
+94843,Tashkent,42,mountains,car,Paris
+77781,Almaty,46,sea,bus,Antalya
+42020,Almaty,42,sea,bus,Paris
+101509,Bishkek,28,city,train,Bangkok
+66602,Osh,63,mountains,car,Dubai
+70495,Nur-Sultan,36,city,plane,Antalya
+98447,Tashkent,38,mountains,train,Dubai
+20077,Bishkek,29,city,car,Paris
+119215,Nur-Sultan,30,city,bus,New York
+117880,Bishkek,60,sea,train,Dubai
+65633,Tashkent,30,mountains,plane,Paris
+54358,Tashkent,56,city,plane,Bangkok
+69440,Osh,25,sea,plane,Antalya
+28870,Almaty,50,city,train,New York
+77178,Nur-Sultan,58,city,car,Antalya
+74720,Tashkent,56,city,plane,New York
+93721,Osh,50,sea,car,Antalya
+98762,Almaty,40,mountains,bus,Bangkok
+82396,Bishkek,65,mountains,train,New York
+82369,Tashkent,30,city,plane,Bangkok
+81187,Tashkent,58,mountains,plane,Bangkok
+83344,Bishkek,59,mountains,plane,New York
+39631,Tashkent,18,mountains,car,Antalya
+51533,Osh,53,city,car,Dubai
+69861,Tashkent,32,mountains,car,Antalya
+43296,Bishkek,54,city,car,Antalya
+119725,Almaty,60,city,car,Antalya
+78436,Nur-Sultan,59,mountains,car,Bangkok
+106663,Almaty,28,sea,bus,New York
+119867,Almaty,20,city,car,New York
+89749,Tashkent,43,city,plane,Paris
+114933,Bishkek,24,sea,bus,Dubai
+60550,Bishkek,26,mountains,train,Paris
+115366,Bishkek,52,sea,train,Dubai
+106480,Nur-Sultan,62,sea,plane,Dubai
+35913,Osh,45,mountains,car,Paris
+68586,Tashkent,31,sea,bus,Dubai
+103608,Osh,38,city,plane,Dubai
+104795,Nur-Sultan,53,sea,plane,Bangkok
+99895,Nur-Sultan,51,city,plane,New York
+75797,Almaty,30,city,car,Paris
+109708,Bishkek,65,mountains,car,Paris
+64834,Almaty,41,sea,train,Bangkok
+110292,Bishkek,49,mountains,bus,Bangkok
+84624,Osh,28,city,plane,New York
+90200,Osh,21,mountains,car,Antalya
+34652,Tashkent,22,mountains,train,Dubai
+55334,Nur-Sultan,54,city,plane,Dubai
+107242,Nur-Sultan,34,city,train,New York
+113909,Osh,30,city,plane,Bangkok
+24424,Almaty,54,mountains,plane,New York
+22509,Nur-Sultan,65,mountains,car,Bangkok
+97893,Osh,21,city,plane,Antalya
+54374,Tashkent,26,sea,train,Dubai
+51118,Tashkent,32,sea,plane,Dubai
+105246,Osh,47,sea,plane,Dubai
+45582,Tashkent,33,sea,train,Paris
+79112,Almaty,41,sea,plane,New York
+39544,Osh,26,city,car,Bangkok
+70955,Almaty,42,sea,train,Paris
+58915,Bishkek,32,city,bus,Dubai
+66180,Nur-Sultan,58,sea,bus,Paris
+50310,Nur-Sultan,39,city,bus,Dubai
+45186,Bishkek,64,city,plane,Paris
+61876,Nur-Sultan,29,mountains,train,Paris
+115448,Osh,48,mountains,plane,Antalya
+117040,Almaty,50,mountains,plane,Dubai
+51445,Bishkek,50,sea,plane,Paris
+84782,Tashkent,40,mountains,bus,Bangkok
+61718,Almaty,36,sea,plane,New York
+73672,Bishkek,21,sea,car,Bangkok
+101563,Osh,20,sea,plane,Paris
+118339,Osh,23,sea,bus,Paris
+49082,Nur-Sultan,40,sea,plane,Dubai
+56481,Tashkent,49,city,bus,Bangkok
+111164,Almaty,33,city,plane,New York
+71481,Almaty,40,city,train,Dubai
+27051,Almaty,23,sea,bus,Bangkok
+84969,Bishkek,39,sea,train,Bangkok
+83755,Osh,36,sea,plane,Antalya
+86586,Osh,26,city,train,New York
+98257,Bishkek,44,mountains,plane,New York
+64541,Nur-Sultan,19,mountains,bus,Bangkok
+119089,Almaty,36,city,car,Antalya
+105651,Almaty,61,city,train,Dubai
+75835,Osh,37,city,bus,Dubai
+85701,Osh,35,sea,bus,Bangkok
+31388,Bishkek,40,mountains,bus,Dubai
+111188,Almaty,46,sea,bus,Bangkok
+56477,Osh,62,city,plane,Bangkok
+40954,Tashkent,38,sea,car,New York
+105861,Bishkek,24,mountains,plane,Paris
+86038,Tashkent,61,city,car,New York
+72394,Almaty,43,sea,bus,Bangkok
+28073,Almaty,34,mountains,train,Paris
+41101,Almaty,63,sea,train,Bangkok
+61735,Osh,37,city,train,Bangkok
+103660,Nur-Sultan,60,city,plane,Bangkok
+85139,Almaty,43,sea,plane,Dubai
+43098,Almaty,29,sea,car,Dubai
+71568,Bishkek,20,sea,bus,New York
+68308,Nur-Sultan,52,city,bus,Antalya
+106853,Osh,47,city,car,Dubai
+117919,Almaty,18,city,train,Antalya
+97828,Almaty,45,sea,car,Antalya
+101582,Nur-Sultan,27,city,plane,Dubai
+24073,Nur-Sultan,58,sea,bus,Antalya
+29257,Bishkek,62,sea,car,Dubai
+33019,Tashkent,27,city,bus,Bangkok
+107555,Almaty,19,city,plane,Antalya
+45653,Nur-Sultan,22,mountains,train,Antalya
+95130,Nur-Sultan,46,mountains,car,Antalya
+111569,Osh,23,mountains,train,New York
+70221,Bishkek,43,mountains,plane,Dubai
+110494,Almaty,39,sea,car,Antalya
+70060,Nur-Sultan,56,sea,car,Dubai
+107996,Bishkek,43,city,train,New York
+107746,Tashkent,29,sea,bus,Antalya
+108051,Osh,21,sea,car,New York
+58952,Osh,42,mountains,car,New York
+46232,Osh,39,city,bus,Antalya
+44942,Osh,59,mountains,bus,Paris
+34763,Bishkek,45,city,plane,Bangkok
+84741,Tashkent,55,sea,bus,Antalya
+84626,Osh,35,city,car,Paris
+47007,Tashkent,29,mountains,plane,Antalya
+104588,Almaty,55,sea,car,Dubai
+38856,Almaty,19,sea,plane,Bangkok
+81432,Osh,31,sea,bus,Bangkok
+30795,Osh,35,mountains,bus,Paris
+81611,Nur-Sultan,31,mountains,car,New York
+78753,Osh,63,sea,plane,Antalya
+30225,Bishkek,58,city,train,Antalya
+58789,Tashkent,29,mountains,car,New York
+119188,Bishkek,47,mountains,plane,Bangkok
+52907,Almaty,37,mountains,plane,New York
+103909,Almaty,55,sea,train,Antalya
+80578,Nur-Sultan,59,mountains,car,New York
+80765,Almaty,35,sea,plane,Dubai
+86470,Almaty,30,mountains,bus,Antalya
+39037,Nur-Sultan,31,sea,bus,Antalya
+35901,Tashkent,52,mountains,plane,Paris
+74991,Nur-Sultan,58,sea,train,Paris
+65931,Almaty,43,city,train,Antalya
+35257,Almaty,60,city,bus,Bangkok
+102001,Osh,36,city,car,New York
+108835,Bishkek,57,sea,plane,Dubai
+95279,Osh,47,city,train,New York
+39833,Almaty,31,sea,train,Bangkok
+27887,Tashkent,49,city,car,Antalya
+56828,Osh,19,city,train,Antalya
+41259,Almaty,31,mountains,bus,Paris
+23795,Tashkent,23,mountains,train,Dubai
+74166,Nur-Sultan,35,sea,car,New York
+102336,Almaty,50,mountains,bus,Antalya
+112560,Bishkek,38,city,car,Antalya
+89996,Nur-Sultan,18,mountains,car,Dubai
+109098,Osh,63,sea,bus,Dubai
+42147,Tashkent,23,sea,train,Dubai
+96500,Tashkent,31,sea,plane,Bangkok
+114617,Nur-Sultan,54,sea,train,Antalya
+65719,Osh,63,sea,train,Paris
+66382,Almaty,51,sea,bus,Paris
+106601,Bishkek,60,mountains,car,Antalya
+79106,Tashkent,46,sea,car,New York
+113494,Bishkek,58,city,plane,New York
+35087,Bishkek,56,mountains,train,Bangkok
+60265,Nur-Sultan,41,mountains,bus,Dubai
+86497,Bishkek,30,mountains,plane,Dubai
+100989,Bishkek,29,mountains,train,Bangkok
+33082,Nur-Sultan,26,sea,train,Antalya
+79960,Osh,18,sea,car,Dubai
+38452,Osh,44,mountains,bus,Dubai
+34397,Tashkent,42,sea,plane,Dubai
+89211,Tashkent,38,mountains,train,New York
+82725,Osh,22,sea,car,Bangkok
+61327,Osh,18,city,train,Dubai
+118945,Tashkent,63,sea,bus,Bangkok
+43284,Bishkek,61,city,car,Paris
+72815,Osh,25,mountains,car,Paris
+84432,Tashkent,30,mountains,car,Dubai
+62594,Nur-Sultan,18,sea,car,Paris
+108809,Almaty,43,city,plane,Dubai
+98230,Almaty,50,sea,car,New York
+92785,Almaty,46,city,train,Bangkok
+94836,Osh,45,city,plane,New York
+56952,Tashkent,33,mountains,car,Bangkok
+20991,Bishkek,34,mountains,bus,Bangkok
+88878,Tashkent,21,sea,plane,New York
+99657,Tashkent,18,mountains,plane,Antalya
+24983,Tashkent,49,mountains,plane,Bangkok
+117298,Tashkent,43,city,train,Paris
+94240,Tashkent,50,city,train,Dubai
+119240,Tashkent,44,mountains,train,Paris
+114697,Osh,58,city,bus,Paris
+83212,Bishkek,28,mountains,bus,Antalya
+39546,Nur-Sultan,54,sea,car,Dubai
+26112,Almaty,35,city,bus,Antalya
+67176,Bishkek,43,mountains,car,Antalya
+92019,Osh,34,sea,plane,New York
+44925,Osh,56,sea,plane,Paris
+29867,Almaty,20,sea,bus,Bangkok
+32853,Bishkek,54,city,bus,Dubai
+115804,Bishkek,44,mountains,plane,New York
+47320,Tashkent,64,city,plane,Bangkok
+42142,Tashkent,21,sea,plane,Paris
+41396,Tashkent,24,city,plane,New York
+84481,Nur-Sultan,56,mountains,plane,Dubai
+68192,Osh,52,sea,plane,Antalya
+58089,Osh,52,mountains,train,Paris
+104875,Osh,38,mountains,plane,New York
+78145,Bishkek,29,city,plane,Bangkok
+109904,Almaty,54,mountains,train,New York
+62849,Bishkek,32,mountains,bus,New York
+96997,Osh,56,mountains,car,Paris
+75608,Almaty,31,sea,train,Antalya
+70787,Bishkek,62,mountains,plane,Bangkok
+111588,Bishkek,58,mountains,bus,New York
+67209,Bishkek,52,sea,train,Bangkok
+95136,Nur-Sultan,35,sea,train,Antalya
+77078,Tashkent,38,city,bus,Antalya
+117548,Almaty,46,city,train,Antalya
+113535,Nur-Sultan,19,city,plane,New York
+110368,Nur-Sultan,60,mountains,train,Bangkok
+65177,Nur-Sultan,28,mountains,bus,Antalya
+84907,Nur-Sultan,54,sea,train,Bangkok
+29352,Almaty,32,city,bus,Paris
+24855,Nur-Sultan,61,mountains,car,Antalya
+69459,Bishkek,56,sea,plane,Bangkok
+98600,Nur-Sultan,37,sea,bus,Dubai
+106018,Bishkek,61,city,car,Bangkok
+31577,Bishkek,32,sea,train,Dubai
+97523,Tashkent,26,city,car,Bangkok
+113511,Bishkek,51,mountains,car,New York
+111388,Bishkek,59,sea,plane,Dubai
+74587,Osh,42,mountains,bus,Antalya
+35989,Nur-Sultan,29,city,plane,Bangkok
+45874,Bishkek,29,city,car,Antalya
+48471,Tashkent,32,sea,bus,Paris
+47895,Bishkek,55,sea,plane,Bangkok
+40028,Almaty,44,sea,car,Bangkok
+54912,Bishkek,60,mountains,bus,Dubai
+61851,Tashkent,41,city,bus,Dubai
+32258,Bishkek,48,sea,train,Bangkok
+80904,Nur-Sultan,57,city,plane,Antalya
+25736,Nur-Sultan,41,city,car,Bangkok
+25207,Nur-Sultan,48,mountains,train,Dubai
+78143,Tashkent,32,mountains,car,Dubai
+103838,Tashkent,43,sea,bus,Dubai
+83942,Osh,49,mountains,train,Antalya
+80832,Tashkent,21,city,plane,New York
+70237,Almaty,28,mountains,car,Dubai
+28202,Almaty,18,city,plane,Paris
+85429,Bishkek,60,city,plane,New York
+57693,Osh,22,city,bus,Dubai
+110845,Tashkent,38,city,train,Antalya
+70032,Tashkent,26,city,car,Dubai
+37934,Tashkent,58,mountains,car,Bangkok
+22960,Osh,53,sea,car,Dubai
+95542,Bishkek,46,sea,plane,Antalya
+84187,Tashkent,56,sea,bus,Paris
+101602,Osh,53,mountains,bus,Paris
+70875,Nur-Sultan,38,city,car,Paris
+32463,Bishkek,62,sea,car,Antalya
+114859,Osh,37,mountains,plane,Antalya
+95128,Almaty,53,city,plane,Bangkok
+41052,Osh,62,mountains,train,Dubai
+50688,Almaty,49,city,bus,Paris
+57198,Almaty,36,mountains,plane,Bangkok
+108768,Tashkent,54,mountains,plane,New York
+93999,Tashkent,44,mountains,plane,Dubai
+75728,Nur-Sultan,32,city,plane,Antalya
+32834,Bishkek,49,city,bus,Bangkok
+69094,Tashkent,45,sea,bus,New York
+111114,Almaty,43,city,train,Bangkok
+95386,Nur-Sultan,21,mountains,bus,Dubai
+24689,Almaty,49,city,bus,Paris
+108853,Osh,33,sea,car,Antalya
+119061,Almaty,61,city,train,Bangkok
+38083,Tashkent,49,city,train,Antalya
+89653,Osh,27,sea,plane,Bangkok
+52168,Almaty,33,sea,plane,New York
+83235,Nur-Sultan,40,city,bus,Dubai
+76079,Osh,58,sea,car,Bangkok
+62741,Bishkek,57,city,bus,New York
+45023,Nur-Sultan,57,sea,bus,New York
+82653,Nur-Sultan,64,mountains,train,Paris
+77936,Nur-Sultan,39,sea,car,Bangkok
+101948,Bishkek,47,city,car,Dubai
+90505,Nur-Sultan,36,city,bus,Dubai
+92211,Bishkek,28,city,plane,Dubai
+72898,Almaty,43,city,train,Antalya
+100798,Osh,53,mountains,plane,Antalya
+63897,Osh,43,city,car,Dubai
+46853,Bishkek,40,mountains,car,Dubai
+26047,Nur-Sultan,23,mountains,bus,Paris
+104818,Osh,54,sea,bus,Paris
+61199,Osh,39,city,car,Bangkok
+42771,Nur-Sultan,53,city,plane,Dubai
+119882,Tashkent,29,mountains,train,Paris
+46189,Nur-Sultan,37,mountains,plane,Antalya
+33972,Tashkent,42,city,car,Antalya
+45875,Almaty,64,city,plane,Dubai
+109627,Almaty,65,mountains,plane,New York
+73221,Tashkent,54,sea,bus,Paris
+88094,Tashkent,45,mountains,car,Dubai
+46444,Almaty,61,mountains,train,Bangkok
+85388,Almaty,61,sea,car,Antalya
+44424,Almaty,52,mountains,car,Bangkok
+67475,Almaty,29,city,car,Paris
+81887,Almaty,48,sea,bus,Antalya
+86171,Osh,58,sea,plane,New York
+71717,Osh,37,city,train,Antalya
+72243,Almaty,55,sea,bus,Paris
+50238,Bishkek,29,city,bus,Dubai
+48316,Tashkent,61,sea,train,Bangkok
+94581,Tashkent,43,sea,bus,Antalya
+85022,Tashkent,51,mountains,train,Paris
+86777,Bishkek,19,mountains,plane,Antalya
+57272,Osh,48,city,car,New York
+115971,Bishkek,43,mountains,bus,Dubai
+26108,Bishkek,39,mountains,train,Dubai
+66490,Osh,31,sea,bus,New York
+97130,Tashkent,32,city,train,Antalya
+112723,Bishkek,21,mountains,plane,New York
+101478,Osh,29,sea,train,Paris
+117380,Nur-Sultan,42,city,car,Bangkok
+69747,Nur-Sultan,47,sea,car,Bangkok
+109356,Osh,62,mountains,plane,Antalya
+53766,Nur-Sultan,41,city,train,New York
+85640,Osh,50,city,train,Dubai
+70785,Tashkent,21,sea,train,Paris
+99637,Almaty,27,city,bus,New York
+87574,Nur-Sultan,51,city,train,New York
+72485,Bishkek,48,mountains,car,Antalya
+72095,Osh,22,city,train,Paris
+114489,Osh,28,city,car,Antalya
+85335,Bishkek,48,city,bus,Bangkok
+89769,Bishkek,28,city,plane,New York
+36883,Nur-Sultan,60,mountains,bus,Bangkok
+110378,Bishkek,33,city,car,New York
+51724,Osh,23,sea,bus,Antalya
+39943,Tashkent,65,sea,train,New York
+102167,Osh,35,sea,car,New York
+56896,Bishkek,27,mountains,car,Dubai
+38192,Tashkent,37,city,car,Dubai
+77132,Osh,48,mountains,plane,New York
+104672,Osh,52,city,train,Dubai
+62159,Almaty,54,mountains,bus,Bangkok
+105303,Tashkent,39,city,bus,Dubai
+119147,Tashkent,58,city,train,Antalya
+90266,Osh,52,sea,plane,Bangkok
+110925,Bishkek,59,sea,train,Antalya
+82594,Tashkent,21,city,plane,Bangkok
+93231,Nur-Sultan,35,sea,bus,Dubai
+109408,Almaty,23,city,car,Paris
+57526,Osh,53,sea,bus,Dubai
+53860,Nur-Sultan,24,sea,bus,New York
+75626,Osh,63,mountains,car,Antalya
+98897,Nur-Sultan,43,sea,train,Dubai
+114711,Bishkek,49,mountains,train,Dubai
+44752,Tashkent,34,mountains,train,Antalya
+85477,Nur-Sultan,35,sea,train,Antalya
+117137,Tashkent,61,mountains,plane,New York
+96868,Bishkek,48,mountains,plane,Paris
+63744,Tashkent,36,sea,car,Dubai
+118414,Nur-Sultan,45,sea,car,Dubai
+35227,Almaty,19,mountains,train,New York
+31974,Almaty,35,mountains,bus,New York
+64048,Bishkek,18,sea,bus,Dubai
+42675,Almaty,25,mountains,train,Dubai
+116935,Tashkent,30,sea,car,Antalya
+36300,Osh,22,sea,bus,Dubai
+45425,Nur-Sultan,65,city,train,New York
+22037,Almaty,44,sea,bus,Antalya
+36839,Bishkek,25,sea,bus,New York
+52624,Nur-Sultan,64,sea,train,Bangkok
+61454,Tashkent,41,mountains,car,Bangkok
+77783,Tashkent,33,sea,train,Bangkok
+30021,Almaty,64,mountains,plane,Dubai
+54000,Nur-Sultan,32,city,car,Dubai
+87898,Nur-Sultan,51,mountains,train,Bangkok
+65518,Nur-Sultan,65,mountains,car,Paris
+20301,Nur-Sultan,18,sea,car,New York
+38629,Osh,25,mountains,plane,Dubai
+46517,Osh,29,mountains,train,Paris
+73108,Almaty,46,city,train,Antalya
+58406,Bishkek,49,mountains,car,Dubai
+94619,Bishkek,27,city,plane,Dubai
+72895,Tashkent,49,sea,train,Dubai
+109954,Almaty,56,mountains,bus,Bangkok
+43875,Osh,32,sea,plane,Dubai
+59789,Bishkek,65,city,bus,Dubai
+70503,Almaty,31,mountains,plane,Dubai
+64282,Bishkek,24,city,car,Dubai
+22150,Bishkek,44,mountains,train,Bangkok
+38858,Bishkek,20,mountains,train,New York
+71440,Osh,19,mountains,car,Bangkok
+27067,Nur-Sultan,47,sea,bus,Antalya
+55277,Tashkent,23,mountains,plane,Paris
+107370,Osh,25,mountains,plane,Bangkok
+46115,Nur-Sultan,26,sea,plane,Dubai
+106058,Nur-Sultan,24,mountains,train,Dubai
+65663,Nur-Sultan,24,city,train,Bangkok
+40424,Bishkek,48,sea,plane,Paris
+23233,Nur-Sultan,22,sea,car,Paris
+111905,Bishkek,55,sea,car,New York
+25924,Tashkent,32,city,plane,New York
+111401,Nur-Sultan,21,city,bus,Dubai
+87203,Almaty,23,mountains,car,New York
+115617,Osh,37,sea,car,New York
+37259,Tashkent,49,mountains,bus,Bangkok
+85666,Nur-Sultan,26,city,car,New York
+83305,Bishkek,52,mountains,car,New York
+112754,Almaty,36,sea,train,Bangkok
+52749,Nur-Sultan,51,city,car,Paris
+67351,Osh,49,mountains,plane,Paris
+72027,Osh,59,mountains,train,Bangkok
+72352,Almaty,36,sea,car,Antalya
+50037,Nur-Sultan,55,mountains,bus,New York
+36796,Osh,28,city,train,Antalya
+67186,Bishkek,61,mountains,plane,Antalya
+85487,Osh,53,sea,car,New York
+112610,Almaty,40,city,plane,Paris
+56300,Nur-Sultan,29,mountains,car,Antalya
+37378,Almaty,58,mountains,plane,New York
+110791,Almaty,57,city,plane,Dubai
+25752,Osh,64,mountains,bus,Bangkok
+33119,Nur-Sultan,54,mountains,car,Dubai
+20348,Tashkent,32,city,car,Bangkok
+115599,Almaty,27,mountains,car,Bangkok
+26337,Nur-Sultan,59,city,bus,Dubai
+116153,Osh,36,mountains,car,Bangkok
+74961,Tashkent,32,mountains,train,New York
+96369,Tashkent,30,mountains,train,Paris
+97012,Bishkek,54,sea,car,New York
+97079,Almaty,65,city,train,Paris
+60376,Almaty,49,mountains,car,Antalya
+85395,Nur-Sultan,34,mountains,train,New York
+55837,Almaty,51,sea,bus,Bangkok
+60041,Osh,32,sea,car,Bangkok
+96881,Almaty,37,city,train,Dubai
+71292,Almaty,28,sea,plane,Dubai
+93214,Bishkek,36,city,plane,Antalya
+105402,Bishkek,31,sea,train,Antalya
+89736,Bishkek,20,city,train,Bangkok
+59998,Nur-Sultan,50,city,plane,Antalya
+24015,Almaty,18,mountains,plane,New York
+47861,Bishkek,50,city,bus,New York
+33103,Osh,55,mountains,train,Dubai
+64379,Bishkek,60,city,car,New York
+115758,Bishkek,23,mountains,plane,Dubai
+69316,Tashkent,52,city,bus,Dubai
+38308,Nur-Sultan,35,mountains,car,New York
+109138,Almaty,22,city,bus,Paris
+57218,Bishkek,61,mountains,plane,Antalya
+68508,Bishkek,63,sea,car,New York
+99325,Nur-Sultan,34,city,train,Antalya
+44230,Nur-Sultan,23,mountains,train,Paris
+88233,Almaty,52,sea,train,Bangkok
+62019,Bishkek,31,mountains,train,Antalya
+23218,Nur-Sultan,22,mountains,car,Bangkok
+56983,Almaty,18,city,plane,Bangkok
+48927,Osh,58,mountains,bus,New York
+47150,Almaty,61,sea,train,Dubai
+74493,Bishkek,32,sea,car,Antalya
+79963,Tashkent,36,city,plane,Antalya
+101244,Bishkek,37,city,car,Paris
+40650,Osh,42,city,car,Antalya
+43264,Almaty,65,city,bus,Dubai
+101281,Almaty,39,city,bus,Paris
+75056,Tashkent,20,sea,plane,Paris
+74944,Almaty,25,sea,bus,Antalya
+81169,Nur-Sultan,48,sea,train,Dubai
+84630,Osh,56,mountains,car,Bangkok
+52894,Almaty,53,sea,bus,Bangkok
+21731,Nur-Sultan,18,mountains,bus,Paris
+66332,Bishkek,61,city,plane,New York
+74329,Bishkek,34,mountains,plane,Antalya
+73591,Almaty,45,mountains,train,New York
+46638,Nur-Sultan,46,mountains,car,Dubai
+43098,Nur-Sultan,27,mountains,plane,Antalya
+57815,Almaty,61,city,train,New York
+95305,Bishkek,40,mountains,plane,Dubai
+57359,Bishkek,48,city,car,Paris
+70117,Tashkent,33,mountains,plane,Paris
+76332,Nur-Sultan,55,sea,car,Dubai
+27814,Nur-Sultan,29,sea,plane,Dubai
+53626,Nur-Sultan,65,city,plane,Dubai
+85298,Osh,44,city,plane,Paris
+22453,Almaty,24,city,train,Antalya
+80877,Osh,38,sea,bus,New York
+56354,Osh,57,sea,plane,New York
+40155,Nur-Sultan,53,sea,bus,Bangkok
+35911,Nur-Sultan,33,sea,train,Bangkok
+93286,Nur-Sultan,58,mountains,car,Bangkok
+76446,Tashkent,33,sea,plane,Bangkok
+70674,Osh,32,city,plane,New York
+78730,Almaty,51,city,train,Antalya
+56473,Bishkek,64,mountains,plane,Paris
+23892,Nur-Sultan,61,mountains,train,Paris
+100851,Tashkent,60,city,bus,New York
+36077,Tashkent,54,city,car,Dubai
+76807,Nur-Sultan,21,sea,car,Antalya
+57964,Osh,56,mountains,bus,New York
+69016,Tashkent,29,mountains,bus,Paris
+73869,Almaty,57,mountains,train,Antalya
+119952,Almaty,56,sea,bus,New York
+90821,Tashkent,27,sea,car,Dubai
+29643,Almaty,24,mountains,car,Dubai
+110728,Osh,56,sea,plane,Bangkok
+83149,Osh,28,mountains,train,Paris
+91430,Bishkek,65,sea,train,Dubai
+41890,Almaty,33,sea,plane,Paris
+66970,Tashkent,34,sea,bus,Dubai
+24896,Osh,35,sea,train,New York
+77391,Tashkent,54,city,plane,Antalya
+20018,Osh,18,mountains,train,New York
+112367,Bishkek,38,mountains,car,Paris
+92277,Osh,38,sea,plane,Antalya
+114901,Osh,57,sea,car,Antalya
+49716,Tashkent,49,city,train,New York
+35908,Nur-Sultan,39,city,plane,Bangkok
+53037,Bishkek,57,city,train,Dubai
+66065,Almaty,48,mountains,train,Paris
+49097,Almaty,39,mountains,car,Dubai
+73652,Osh,22,city,plane,Antalya
+105067,Nur-Sultan,59,mountains,train,Bangkok
+97554,Osh,59,mountains,plane,Paris
+118524,Tashkent,35,sea,bus,Paris
+65810,Almaty,61,sea,bus,Paris
+74685,Almaty,39,mountains,car,Dubai
+35606,Tashkent,24,mountains,car,New York
+38214,Tashkent,24,city,bus,Paris
+96762,Osh,28,sea,train,Paris
+87041,Almaty,22,city,train,Paris
+102210,Bishkek,51,city,plane,Paris
+115475,Tashkent,38,city,car,Dubai
+80471,Tashkent,56,sea,car,Antalya
+75753,Nur-Sultan,24,mountains,train,Dubai
+90838,Bishkek,50,sea,train,Bangkok
+33812,Osh,32,city,train,Bangkok
+79556,Tashkent,56,mountains,bus,Paris
+28334,Osh,40,city,plane,Paris
+93556,Almaty,20,sea,bus,Antalya
+55105,Bishkek,57,sea,plane,Dubai
+78210,Bishkek,53,city,plane,Dubai
+48859,Tashkent,30,sea,plane,Antalya
+74864,Bishkek,39,sea,train,Paris
+75586,Nur-Sultan,50,sea,plane,Dubai
+51348,Osh,21,city,train,Dubai
+58387,Bishkek,58,sea,bus,New York
+72700,Osh,51,city,car,New York
+67392,Almaty,20,sea,car,Dubai
+116890,Osh,25,mountains,train,Paris
+85409,Bishkek,62,city,plane,Dubai
+38886,Nur-Sultan,54,sea,car,New York
+104372,Osh,45,city,bus,New York
+31237,Almaty,58,sea,train,Paris
+20245,Osh,22,sea,car,Bangkok
+118345,Bishkek,48,sea,plane,Dubai
+57742,Bishkek,28,mountains,train,Bangkok
+110084,Nur-Sultan,62,sea,plane,Bangkok
+117882,Nur-Sultan,41,city,car,Bangkok
+64354,Nur-Sultan,43,city,car,New York
+58743,Osh,31,city,bus,Dubai
+111009,Tashkent,38,sea,train,Paris
+84359,Almaty,51,mountains,train,Paris
